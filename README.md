@@ -7,4 +7,4 @@ Mostly, this is composed of:
 - Java source code (for the Parsing, Enrichment, and the CRON generating Ensembl DB and genesets)
 - Python script (for ZIFA visualization method)
 
-Please visit <a href="asap.epfl.ch">ASAP</a> for more information and <a href="asap.epfl.ch/home/about">references of the different tools</a>
+Please visit <a href="https://asap.epfl.ch">ASAP</a> for more information and <a href="https://asap.epfl.ch/home/about">references of the different tools</a>
